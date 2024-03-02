@@ -1,0 +1,20 @@
+#homework-1
+number1=int (input("enter a number"))
+
+number2=int (input("enter a number"))
+
+print(number1 + number2)
+
+
+
+
+#homework-2
+name=input("enter a name")
+age=int (input("enter an age"))
+time_travel=int (input("enter a time"))
+
+print(age + time_travel)
+
+
+
+
